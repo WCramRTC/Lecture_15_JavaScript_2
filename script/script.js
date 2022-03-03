@@ -72,9 +72,7 @@ btnCar.addEventListener('click', function() {
     for(let i = 0; i < toppings.length; i++) {
         if(toppings[i].checked) {
             alert(toppings[i].value);
-
         }
-
     }
     
 });
