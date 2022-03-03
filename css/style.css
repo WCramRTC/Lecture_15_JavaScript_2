@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    
+}
+
+#container {
+    min-width: 500px;
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid black; 
+}
+
+#loop-example {
+    border: 2px solid black;
+    background-color: antiquewhite;
+    padding: 20px;
+    min-height: 200px;
+}
+
+#loop-display {
+    min-height: 150px;
+    border: 1px solid black;
+    margin: 10px;
+}
